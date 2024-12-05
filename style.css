@@ -1,0 +1,12 @@
+h1{
+    color: blueviolet;
+    font-style: curcive;
+}
+
+p{
+    color: green;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(255, 255, 217);
+}
